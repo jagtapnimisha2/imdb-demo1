@@ -13,6 +13,7 @@ const Home = () => {
     },[])
   return (
     <>
+    <h1>hello</h1>
         <div className='poster'>
         {/* c:-slideshow component  */}
        
